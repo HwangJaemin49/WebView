@@ -4,7 +4,6 @@ import { useEffect, useState, useRef } from 'react';
 import BubbleDoor from '../../components/BubbleInputPage/BubbleInput';
 import Menu from '../../components/Menu';
 import { v4 as uuidv4 } from 'uuid';
-
 const gradientColors = ['red'];
 
 
